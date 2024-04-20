@@ -1,0 +1,11 @@
+The Iris dataset is considered a classic benchmark and has always served as a 
+fundamental starting point for beginners and a reliable testing ground for advanced 
+algorithms. Our main aim is to use machine learning techniques to categorize iris 
+flowers based on their unique features.
+• Machine learning offers a powerful and flexible approach to solving complex 
+classification tasks. Traditional rule-based systems can struggle with capturing subtle 
+patterns and relationships present in large datasets, whereas machine learning 
+algorithms excel in automatically learning these patterns from data. 
+• By employing machine learning techniques, the aim is to leverage the inherent 
+adaptability of algorithms to discern intricate relationships within the Iris dataset and 
+generalize these learnings to classify unseen instances accurately.
